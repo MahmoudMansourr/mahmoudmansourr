@@ -1,7 +1,5 @@
-# 💫 Hello, I am Mahmoud Mansour!
-<br>I am a junior DevOps engineer. With a passion for automation and collaboration, I thrive in creating efficient development and deployment pipelines. As a dedicated and driven professional, I am eager to contribute to the success of any project or organization I am a part of.
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*DluPjzT_eTUFdzHCI7JBZA.gif">
-
+<h1 align="center">Hi 👋, I'm Mahmoud Mansour</h1>
+<h3 align="center">I am a junior DevOps engineer. With a passion for automation and collaboration, I thrive in creating efficient development and deployment pipelines. As a dedicated and driven professional, I am eager to contribute to the success of any project or organization I am a part of.</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoudmansourr) 
