@@ -1,7 +1,6 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*DluPjzT_eTUFdzHCI7JBZA.gif)](https://rishavchanda.io)
-# 💫 About Me:
-<br>Hello, I am Mahmoud, I am a junior DevOps engineer. With a passion for automation and collaboration, I thrive in creating efficient development and deployment pipelines. As a dedicated and driven professional, I am eager to contribute to the success of any project or organization I am a part of.
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+# 💫 Hello, I am Mahmoud Mansour!
+<br>I am a junior DevOps engineer. With a passion for automation and collaboration, I thrive in creating efficient development and deployment pipelines. As a dedicated and driven professional, I am eager to contribute to the success of any project or organization I am a part of.
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*DluPjzT_eTUFdzHCI7JBZA.gif">
 
 
 ## 🌐 Socials:
